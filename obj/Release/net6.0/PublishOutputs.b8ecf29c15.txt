@@ -1,0 +1,7 @@
+D:\Ankitha Workspace\Az-204\MyAzureSolution\DemoAppServiceWebApp\obj\Release\net6.0\PubTmp\Out\DemoAppServiceWebApp.exe
+D:\Ankitha Workspace\Az-204\MyAzureSolution\DemoAppServiceWebApp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Ankitha Workspace\Az-204\MyAzureSolution\DemoAppServiceWebApp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Ankitha Workspace\Az-204\MyAzureSolution\DemoAppServiceWebApp\obj\Release\net6.0\PubTmp\Out\DemoAppServiceWebApp.dll
+D:\Ankitha Workspace\Az-204\MyAzureSolution\DemoAppServiceWebApp\obj\Release\net6.0\PubTmp\Out\DemoAppServiceWebApp.deps.json
+D:\Ankitha Workspace\Az-204\MyAzureSolution\DemoAppServiceWebApp\obj\Release\net6.0\PubTmp\Out\DemoAppServiceWebApp.runtimeconfig.json
+D:\Ankitha Workspace\Az-204\MyAzureSolution\DemoAppServiceWebApp\obj\Release\net6.0\PubTmp\Out\DemoAppServiceWebApp.pdb
